@@ -1,2 +1,2 @@
 # covid19
-Repo for COVID-19 Medical Equipment Research
+Repo for COVID-19 Emergency Medical Ventilator Research Project
